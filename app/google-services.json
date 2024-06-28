@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955364107206",
+    "project_id": "tasali-140d5",
+    "storage_bucket": "tasali-140d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955364107206:android:351a4fa68d84a6da9d08c7",
+        "android_client_info": {
+          "package_name": "com.example.tasali"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr_Zc0m0egx9WmzZ5PgRA_hH4VnvALPsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

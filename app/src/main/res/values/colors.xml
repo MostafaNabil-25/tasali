@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Niagara">#99b0c6</color>
+    <color name="PhthaloBlue">#000e15</color>
+    <color name="logo">#050F17</color>
+    <color name="button">#8CA5B8</color>
+</resources>
